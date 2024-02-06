@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Todo",
+  "description": "Manage Todo in Chrome",
+  "version": "1.0",
+  "action": {
+    "default_popup": "test.html",
+    "default_icon": "icon_32.png"
+  }
+}
